@@ -5,3 +5,9 @@
  * @License: Not free read more http://nukeviet.vn/vi/store/modules/nvtools/
  * @Createdate Thu, 06 Apr 2023 14:36:56 GMT
  */
+
+function nv_clear_text()
+{
+	$('input[type=text]').val("")
+}
+//---------------------------------------
